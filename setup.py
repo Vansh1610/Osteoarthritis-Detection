@@ -8,7 +8,7 @@ __version__='0.0.0'
 
 REPO_NAME="Osteoarthritis-Detection"
 AUTHOR_USER_NAME='Vansh1610'
-SRC_REPO='Osteoarthritis Classifier'
+SRC_REPO='Osteoarthritis_Classifier'
 AUTHOR_EMAIL='vansh.jain162000@gmail.com'
 
 

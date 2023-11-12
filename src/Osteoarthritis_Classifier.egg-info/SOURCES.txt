@@ -1,7 +1,6 @@
 LICENSE
 README.md
 setup.py
-src/Osteoarthritis_Classifier/__init__.py
 src/Osteoarthritis_Classifier.egg-info/PKG-INFO
 src/Osteoarthritis_Classifier.egg-info/SOURCES.txt
 src/Osteoarthritis_Classifier.egg-info/dependency_links.txt
